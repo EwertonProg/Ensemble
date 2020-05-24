@@ -1,0 +1,16 @@
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.gradle
+target/
+
+### IntelliJ ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
